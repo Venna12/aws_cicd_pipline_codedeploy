@@ -16,3 +16,4 @@ sudo pip install awscli<br />
 bnc dnans bn\
 cbnsa casnb n
 cnasn cnas n
+ mcncvnd
