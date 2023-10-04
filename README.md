@@ -13,3 +13,6 @@ sudo chmod +x ./install<br />
 sudo ./install auto<br />
 sudo yum install -y python-pip<br />
 sudo pip install awscli<br />
+bnc dnans bn\
+cbnsa casnb n
+cnasn cnas n
